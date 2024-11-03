@@ -50,7 +50,7 @@ Para instalar el proyecto, sigue estos pasos:
 
 ## Estructura del Proyecto
 
-.
+EjUnitTest/
 ├── src
 │   ├── app
 │   │   ├── home
