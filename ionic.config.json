@@ -1,0 +1,7 @@
+{
+  "name": "EjUnitTest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
